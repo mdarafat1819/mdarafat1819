@@ -36,7 +36,7 @@ Gopalganj Science & Technology University, Bangladesh
   - C Programming (Basic & Intermediate) – [*HackerRank Certified*](https://www.hackerrank.com/certificates/a7a519fa28bd)
     
 **ERP-Related Courses:**
-  - Introducing Procurement Processes - [*SAP Learning Hub*](https://www.credly.com/earner/earned/badge/58da74af-c0ab-4ea6-8fa0-53264e6bad3f)
+  - Introducing Procurement Processes - [*SAP Learning Hub*](https://www.credly.com/badges/58da74af-c0ab-4ea6-8fa0-53264e6bad3f/public_url)
   - Business Processes in SAP S/4HANA Sourcing & Procurement - *SAP Learning Hub*
 
 ## Learning Activities related Repo  
